@@ -1,0 +1,17 @@
+h1{color:rgba(224, 154, 154, 0.596);}
+h2{color: rgb(24, 103, 173);}
+h3{color:rgb(39, 183, 219)}
+p{
+    color:rgba(18, 54, 233, 0.713);
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+.LOL{
+    color:rgb(27, 46, 219);
+    text-align: middle;
+}
+
+body{background-image: url(".jpg");}
+

@@ -1,0 +1,24 @@
+h1{color:brown}
+.menu{border: 2px solid rgb(125,225,238)
+}
+p{
+    color:rgba(74, 20, 174, 0.713);
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+
+
+.special{
+    color:rgb(133, 20, 174);
+    text-align: left;
+}
+
+
+.period{
+    color:rgb(200, 122, 26)
+}
+
+
+    
