@@ -1,3 +1,3 @@
 # League of Legends Forum 
 
-Why LOL is better than Honour Of Kings (HOR)?
+Why League of Legends (LOL) is better than Honour Of Kings (HOR)?
